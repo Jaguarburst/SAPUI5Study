@@ -10,6 +10,7 @@
 			"version": "1.0.0"
 		}
 	},
+	
 	"sap.ui": {
 		"technology": "UI5",
 		"deviceTypes": {
